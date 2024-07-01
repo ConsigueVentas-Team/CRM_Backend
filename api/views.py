@@ -14,3 +14,4 @@ from api.view.ProviderView import *
 from api.view.PaymentView import *
 from api.view.PurchaseView import *
 from api.view.DetailPurchaseView import *
+from api.view.NotificationView import *
